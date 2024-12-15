@@ -7,7 +7,7 @@ Search Functionality: Tests the basic search functionality to ensure users can f
 Advanced Search Functionality: Verifies that advanced search filters (such as title, author, etc.) work correctly.
 
 
-Technologies Used
-Playwright: Browser automation framework
-Chrome Browser: For testing on Chrome browser
-TypeScript: For writing test scripts
+Technologies Used: 
+Playwright
+Chrome Browser
+TypeScript
